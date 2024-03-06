@@ -1,9 +1,6 @@
 # Custom-Chatbot
 FAQ chatbot
 
-
-# NLP_Custom_ChatBot
-
 We have created a FAQ chatbot for applications which provide bus-ticket booking service(Like RedBus, AbhiBus) etc.
 
 You need a python interpreter and pytorch to run this application.
